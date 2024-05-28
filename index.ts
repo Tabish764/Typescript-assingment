@@ -44,7 +44,7 @@ let inventory: {name:string, model:string, cost:number, quantity:number}[]=[]
 
 let product1 = {
     name: "Laptop",
-    model: "XPS 13",
+    model: "Thinkpad t470",
     cost: 50000,
     quantity: 5
   };
@@ -59,7 +59,7 @@ let product1 = {
   let product3 = {
     name: "Tablet",
     model: "iPad Pro",
-    cost: 999,
+    cost: 99999,
     quantity: 7
   };
   
